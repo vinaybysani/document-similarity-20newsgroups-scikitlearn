@@ -26,6 +26,6 @@ Document similarity(Cosine) between 20 news groups has been calculated using the
 
 
 ## Heatmap - TF-IDF representation
-![alt text](https://github.com/vinaybysani/document-similarity-20newsgroups-scikitlearn/blob/master/images/tfidf.png)
 -	Most similar Newsgroups – soc.religion.christian, talk.religion.misc
 -	Least similar Newsgroups – comp.windows.x misc.forsale
+![alt text](https://github.com/vinaybysani/document-similarity-20newsgroups-scikitlearn/blob/master/images/tfidf.png)
