@@ -14,19 +14,18 @@ Document similarity(Cosine) between 20 news groups has been calculated using the
 -	**TF-IDF** is by far the best representation in terms of relevance. It makes use of term frequencies. It gives us good estimate on classifying two documents of different length. It also considers weights for words, rare words having more weight and commonly used words having low weight.
 
 ## Heatmap - Bag of words (Occurrences count)
-
-![alt text](https://github.com/vinaybysani/document-similarity-20newsgroups-scikitlearn/blob/master/images/count.png)
 -	**Most similar Newsgroups – soc.religion.christian, talk.politics.mideast
 -	**Least similar Newsgroups – comp.windows.x, misc.forsale
+![alt text](https://github.com/vinaybysani/document-similarity-20newsgroups-scikitlearn/blob/master/images/count.png)
 
 
 ## Tokenized representation 
-![alt text](https://github.com/vinaybysani/document-similarity-20newsgroups-scikitlearn/blob/master/images/tfidf.png)
 -	**Most similar Newsgroups – soc.religion.christian, talk.politics.mideast
 -	**Least similar Newsgroups – comp.windows.x, misc.forsale
+![alt text](https://github.com/vinaybysani/document-similarity-20newsgroups-scikitlearn/blob/master/images/tfidf.png)
 
 
 ## TF-IDF representation
+![alt text](https://github.com/vinaybysani/document-similarity-20newsgroups-scikitlearn/blob/master/images/tokenized.png)
 -	**Most similar Newsgroups – soc.religion.christian, talk.religion.misc
 -	**Least similar Newsgroups – comp.windows.x misc.forsale
-![alt text](https://github.com/vinaybysani/document-similarity-20newsgroups-scikitlearn/blob/master/images/tokenized.png)
